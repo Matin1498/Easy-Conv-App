@@ -1,0 +1,1 @@
+EasyConv is a simple and lightweight Android app that offers three quick conversion tools: unit conversion (length), weather conversion (Celsius ↔ Fahrenheit), and date conversion between the Iranian (Jalali) and Gregorian calendars.
